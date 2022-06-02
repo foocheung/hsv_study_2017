@@ -1,0 +1,9 @@
+Models used for RNAseq:
+
+
+Model 1
+(Timepoint_Gender - Baseline_Gender) 
+
+Model 2
+(Timepoint_Female - Baseline_Female) - (Timepoint_Male - Baseline_Male)
+

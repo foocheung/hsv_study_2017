@@ -1,0 +1,13 @@
+name: adat2matrix
+title: adat2matrix
+username:
+account: foocheung
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3393293
+bundleId: 5086593
+url: https://foocheung.shinyapps.io/adat2matrix/
+when: 1632942119.26156
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: ba_27C_dat4analysis.txt|Untitled.Rmd
